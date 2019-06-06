@@ -8,8 +8,8 @@ Have lots of fun with this file.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos of an educational nature.
 
 ## Deployment
 
-Worldwide.
+Worldwide, on any server.
