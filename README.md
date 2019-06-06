@@ -14,6 +14,10 @@ Sample website with plenty of files for demos of an educational nature.
 
 Worldwide, on any server.
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 #### Copyright
 
 2019 Copyright G. Weatherwax
