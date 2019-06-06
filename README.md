@@ -13,3 +13,7 @@ Sample website with plenty of files for demos of an educational nature.
 ## Deployment
 
 Worldwide, on any server.
+
+#### Copyright
+
+2019 Copyright G. Weatherwax
