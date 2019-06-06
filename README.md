@@ -4,6 +4,7 @@ This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
+Have lots of fun with this file.
 
 ## Purpose
 
