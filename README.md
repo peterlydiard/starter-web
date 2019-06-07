@@ -4,7 +4,8 @@ This repository is for showing how Git and GitHub work together.
 
 ## Introduction
 
-Have lots of fun with this file. Adding a line for rebase example.
+Have lots of fun with this file. 
+Adding a line for rebasing example, then more changes on myfeature branch too.
 
 ## Purpose
 
