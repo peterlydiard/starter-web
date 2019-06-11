@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work together. 
 Updating for emergency fix after stashing.
+Chnge for lesson 78.
 
 ## Introduction
 
